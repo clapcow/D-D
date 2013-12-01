@@ -1,0 +1,76 @@
+﻿critical is 20 % chance * 1.5
+        charge = level * strength + speed + accuracy + ( - 3 stamina )
+        kick = level * strength + 2 ( - 2 stamina)
+        swing = level  * strength  ( - 1 stamina)
+        
+        tackle = level * speed * strength + 4 (- 6 stamina)
+        magic = level + mana ( - 0 stamina)
+___________________________________________        
+10 levels 
+1 - 200
+2 - 500
+3 - 1000
+4 - 10,000
+5 - 25,000
+6 - 45,000
+7 - 60, 000
+8 - 70 , 000
+9 - 85,000
+10 - 100,000
+xp  = damage dealt
+___________________________________________
+start out with 5 points
+
+
+1 - 4
+2 - 8
+3 - 12
+4 - 16
+5 - 20
+6 - 24
+7 - 28 
+8 - 32
+9 - 36
+10  - 40
+
+
+
+
+_____________________________________________
+stamina starts at 10
+
+
+1 - 10 cap (+ 1 Per turn)
+2 - 15 cap (+ 1 Per turn)
+3 - 20 cap (+ 2 Per turn)
+4 - 30 cap (+ 2 Per turn)
+5 - 40 cap (+ 2 Per turn)
+6 - 50 cap (+ 3 Per turn)
+7 - 60 cap (+ 3 Per turn)
+8 - 70 cap (+ 4 Per turn)
+9 - 80 cap (+ 5 Per turn)
+10 - 100 cap (+ 6 Per turn)
+
+
+
+
+____________________________________________
+ health 
+1 - 100
+2 - 500
+3 - 1000
+4 - 3,000
+5 - 7,000
+6 - 10,000
+7 - 12,000
+8 - 15,000
+9 - 17,000
+10 - 20,000
+
+
+_____________________________________________
+
+
+ 2 Switches 
+Switch on damage dealt to determine level
+Switch on level to determine Health and points

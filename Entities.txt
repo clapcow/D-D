@@ -1,0 +1,62 @@
+﻿Monsters:
+Orc
+Wolfs
+Troll
+Bears
+Kobolds
+Goblins
+Hob-Golins
+Ogers
+Dragon
+Skeleton
+Frost Worm
+Giant
+Golem
+Gorgon
+Hag
+Witch
+Heros:
+        Elf
+	Warrior
+	Cat
+Attacks:
+        Charge
+        Kick
+        Swing
+        Bow Shot
+        Tackle
+        Spell
+        Fire
+Bosses:
+        Ice Dragon - Kreis
+        3 Head Witch -Ricketts Chra Kah
+        Monkey - Percocet
+Potions:
+        Health
+        Strength
+        Accuracy
+Attacks: 
+        Charge
+        Kick
+        Swing
+        Bow Shot
+        Tackle
+        Spell
+        Fire
+Skills:
+        Strength
+        Speed
+        Mana
+        Accuracy
+        Stamina
+crits
+1 1.1
+2 
+3
+4
+5
+6
+7
+8
+9
+10
