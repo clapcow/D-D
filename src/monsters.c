@@ -31,7 +31,5 @@ void loadmonsters(){
         fgets(monsters[i]->phrase,80, fp);
     }
     fclose(fp);
-    for(i = 0; i <16;i++){
-        printf("%s\n",monsters[i]->phrase);
-    }
+    
 }
